@@ -10,7 +10,7 @@ Porsche - no translation, is a car brand
 BMW - no translation, is a car brand
 Biergarten - beer garden
 Ratskeller - cellar of a town hall
-Dirndel - dirndl
+Dirndel - traditional German clothing
 Lederhose - leather trousers
 Schloss - castle (or lock)
 wettbewerbsfaehig - competitive
